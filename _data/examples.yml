@@ -4,7 +4,7 @@ stats:
   # description: |      # required
   #  See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
   features:
-    - title: <span>34</span>
+    - title: 34
       description: Institutions
       background: /assets/images/placeholders/institutions_small.jpg
       href: /institution/search
