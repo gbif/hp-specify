@@ -8,7 +8,7 @@ stats:
       description: Institutions
       background: /assets/images/placeholders/institutions_small.jpg
       href: /institution/search
-    - title: <span>163</span>
+    - title: 163
       description: Collections
       background: /assets/images/placeholders/collections_small.jpg
       href: /collection/search
