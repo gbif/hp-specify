@@ -1,6 +1,6 @@
 stats:
   klass: contentTypesStat
-  title: "type: stats"
+  title: "Specify Collections in GBIF"
   description: |      # required
     Collections managed with Specify publishing data to GBIF
   features:
