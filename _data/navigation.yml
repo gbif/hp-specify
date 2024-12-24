@@ -18,7 +18,8 @@
     href: /example-pages/simple
   - text: Complex
     href: /example-pages/complex
-- text: Links
+- text: Community Forum
+  href: https://discourse.specifysoftware.org
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
     href: https://hp-base-theme.gbif-staging.org/
@@ -32,5 +33,5 @@
     href: https://guides.github.com/features/mastering-markdown/
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-- text: News
-  href: /news/
+- text: Forum
+  href: https://discourse.specifysoftware.org
