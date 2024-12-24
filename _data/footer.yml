@@ -3,23 +3,33 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partners
-    links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
 
-  - name: Code
+  - name: Member Institutions
+    links:
+      - text: Commonwealth Scientific and Industrial Research Organisation (CSIRO)
+        href: https://www.csiro.au/
+      - text: Consejo Superior de Investigaciones Científicas (CSIC)
+        href: https://www.csic.es/
+      - text: Danske Naturhistoriske Museer
+        href: https://www.naturhistoriskmuseum.dk/
+      - text: Muséum d'histoire naturelle de Genève
+        href: https://www.ville-ge.ch/musinfo/
+      - text: University of Florida
+        href: https://www.ufl.edu/
+      - text: University of Kansas
+        href: https://www.ku.edu/
+      - text: University of Michigan
+        href: https://umich.edu/
+
+  - name: GitHub
     description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+      This project is open source. You can [find the code on GitHub](https://github.com/specify/)!
   
   - name: Contact
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+      For more information about joining the SCC, you can reach out to [membership@specifysoftware.org](mailto:membership@specifysoftware.org)!
+      If you are a Specify user who would like to be added to this portal, please contact [support@specifysoftware.org](mailto:support@specifysoftware.org).
+      © Copyright 2024 – Specify Collections Consortium
     connectIcons: true
 
   # EXAMPLE
