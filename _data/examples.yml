@@ -1,8 +1,8 @@
 stats:
   klass: contentTypesStat
-  # title: "type: stats"
-  # description: |      # required
-  #  See [`_data/compose/examples.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/examples.yml#L72) for the content structure.
+  title: "type: stats"
+  description: |      # required
+    Collections managed with Specify publishing data to GBIF
   features:
     - title: 34
       description: Institutions
@@ -55,9 +55,9 @@ couldBeAnyName:
       background: /assets/images/placeholders/blocks2.png
       imageLicense: None for this image, but normally you would provide one here
 
-herbariumImageExample:
+specimenExample:
   reverse: false
-  title: "Likeness darkness light"
+  title: "Collections Community"
   description: |      # required
     Forth beginning form dry thing. Form seed void likeness darkness light. Can't created third upon spirit fruitful hath likeness their. Replenish saw female night they're you blessed all greater cattle, grass god fifth you're. Above wherein replenish face multiply male every. Own hath lights under creeping.
   # img required
