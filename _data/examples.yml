@@ -18,42 +18,58 @@ stats:
       href: /specimen/search
 
 couldBeAnyName:
-  title: Virginis socerque
+  title: Founding Partners
   description: |
-    Forth beginning form dry thing. Form seed void likeness darkness light. Can’t created third upon spirit fruitful hath likeness their. Replenish saw female night they’re you blessed all greater cattle, grass god fifth you’re. Above wherein replenish face multiply male every. Own hath lights under creeping.
+    Specify is largely supported by the following founding partners:
   features:
-    - title: Abundantly light years # required
-      description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      # img required
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
-      # categories: [drawings] # optional
-    - title: Fly moving land # required
-      description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
-    - title: Fruitful replenish # required
-      description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
-    - title: Land man dry # required
-      description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
-    - title: Abundantly light years # required
-      description: |      # required
-        Also, in [for from](/about) winged doesn’t sea creepeth brought be deep abundantly light green they’re living green years.
-      href: /about
-      background: /assets/images/placeholders/blocks2.png
-      imageLicense: None for this image, but normally you would provide one here
+    - title: Commonwealth Scientific and Industrial Research Organisation
+      description: |
+        CSIRO is Australia's national science agency, conducting research across various fields including biodiversity and ecology.
+      href: https://www.csiro.au/
+      background: https://www.specifysoftware.org/wp-content/uploads/2021/10/CSIRO_Solid_RGB.png
+      # imageLicense: 
+
+    - title: Consejo Superior de Investigaciones Científicas
+      description: |
+        CSIC is Spain's largest public research institution, contributing to biodiversity research and data sharing through its numerous scientific collections and research centers.
+      href: https://www.csic.es/
+      background: https://www.specifysoftware.org/wp-content/uploads/2023/08/Logotipo_del_CSIC.svg
+      # imageLicense: 
+
+    - title: Danske Naturhistoriske Museer
+      description: |
+        The Natural History Museums of Denmark
+      href: https://snm.ku.dk/
+      background: https://www.specifysoftware.org/wp-content/uploads/2020/05/dk_nat.museums_uk.png
+      # imageLicense: 
+
+    - title: Muséum d'histoire naturelle de Genève
+      description: |
+        The Natural History Museum of Geneva
+      href: https://www.ville-ge.ch/mhng/
+      background: https://www.specifysoftware.org/wp-content/uploads/2023/09/Logo_Museum_dhistoire_naturelle_de_Geneve.png
+      # imageLicense: 
+
+    - title: University of Florida
+      description: |
+        The University of Florida
+      href: https://www.ufl.edu/
+      background: https://www.specifysoftware.org/wp-content/uploads/2020/05/FM_logo_stacked_Specify_Color-01.png
+      # imageLicense: 
+
+    - title: University of Kansas
+      description: |
+        The University of Kansas
+      href: https://biodiversity.ku.edu/
+      background: https://www.specifysoftware.org/wp-content/uploads/2020/05/biodiversity_institute_scr_UnitVert_2Color.png
+      # imageLicense: 
+
+    - title: University of Michigan
+      description: |
+        The University of Michigan
+      href: https://www.umich.edu/
+      background: https://www.specifysoftware.org/wp-content/uploads/2020/05/LSA_logo_stacked_4c.png
+      # imageLicense: 
 
 specimenExample:
   reverse: false
