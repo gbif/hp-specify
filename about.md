@@ -55,7 +55,7 @@ Join our community today and help shape the future of biological and geoscience 
 * [Learn more about Specify](https://discourse.specifysoftware.org/t/about-specify/943/1)
 * [Explore member collections](https://www.specifysoftware.org/members/)
   * [Participate in webinars](https://discourse.specifysoftware.org/tag/webinar)
-  * Access training materials
+  * [Access training materials & documentation](https://discourse.specifysoftware.org/docs)
 
 ## Contact Us
 
