@@ -61,4 +61,6 @@ Join our community today and help shape the future of biological and geoscience 
 
 For more information about the Specify Collections Consortium, please visit our website or reach out to us directly. Together, we can make a difference in the fields of biological and geoscience research.
 
-[Learn More](/data){: .button .is-primary} [Contact Us](/data){: .button} [Main Page](https://www.specifysoftware.org/){: .button}
+[Learn More](/data){: .button .is-primary} [Contact Us](mailto:membership@specifysoftware.org){: .button} 
+
+[Main Page](https://www.specifysoftware.org/){: .button}
