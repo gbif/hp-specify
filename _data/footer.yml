@@ -4,7 +4,7 @@
 # Columns (the more you add, the narrower they will be)
 columns:
 
-  - name: Member Institutions
+  - name: Founding Partners
     links:
       - text: Commonwealth Scientific and Industrial Research Organisation (CSIRO)
         href: https://www.csiro.au/
